@@ -1,2 +1,0 @@
-status=off
-delay=10
